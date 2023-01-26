@@ -1,4 +1,4 @@
-# Como jogar?
+# Como jogar? #
 
 - Para jogar bastar instalar um editor de código da sua preferência
 - Após instalar, abra o editor e clique em FILE no campo superior esquerdo do programa e clique em OPEN FOLDER.
