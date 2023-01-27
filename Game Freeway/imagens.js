@@ -11,5 +11,5 @@ function preload(){
     imagemDoCarro1 = loadImage("Imagens/carro-1.png");
     imagemDoCarro2 = loadImage("Imagens/carro-2.png");
     imagemDoCarro3 = loadImage("Imagens/carro-3.png");
-    imagemCarros = [imagemDoCarro1, imagemDoCarro2, imagemDoCarro3]
+    imagemCarros = [imagemDoCarro1, imagemDoCarro2, imagemDoCarro3, imagemDoCarro1, imagemDoCarro2, imagemDoCarro3]
   }
