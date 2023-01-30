@@ -4,7 +4,6 @@ Abaixo, você irá encontrar alguns projetos que estou praticando em HTML, CSS e
 ## Projetos:
 
 - [x] Game Pong: exercitando a lógica de programação em JS 🏓
-- [x] Game Freeway: JS 🚗 
-- [ ]
+- [x] Game Freeway: JS 🚗
 
-> Em atualização
+> Em atualização | Próximo projeto a caminho
