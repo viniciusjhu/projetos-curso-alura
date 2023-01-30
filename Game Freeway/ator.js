@@ -15,8 +15,14 @@ function mostrarAtor(){
       yAtor -= 3;
     }
     if (keyIsDown(DOWN_ARROW)){
-      yAtor += 3;
+      if (podeSeMover ()){
+        yAtor += 3;
+      }
     }
+  }
+  
+  function podeSeMover(){
+    return yAtor < 366;
   }
 
   function verificaColisao(){
@@ -25,6 +31,10 @@ function mostrarAtor(){
       colisao = collideRectCircle(xCarros[i], yCarros[i], wCarros, hCarros, xAtor, yAtor, 15)
       if (colisao){
         voltaAtorInicio();
+        somDaColisao.play();
+        if (pontosMaiorZero()){
+          meusPontos -= 1;
+        }
       }
     }
   }
@@ -43,6 +53,11 @@ function mostrarAtor(){
   function marcaPonto(){
     if (yAtor < 15){
       meusPontos += 1;
+      somDoPonto.play();
       voltaAtorInicio();
     }
+  }
+
+  function pontosMaiorZero(){
+    return meusPontos > 0
   }
