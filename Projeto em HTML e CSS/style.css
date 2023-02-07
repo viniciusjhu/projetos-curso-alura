@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Montserrat:wght@100;600&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -12,4 +14,48 @@ body{
 
 .titulo-destaque{
     color: #0292B7;
+}
+
+.apresentacao{
+    margin: 5% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    text-align: center;
+}
+
+.apresentacao__conteudo__titulo{
+    font-family: 'Comfortaa', cursive;
+    font-size: 36px;
+}
+
+.apresentacao__conteudo__texto{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+.apresentacao__links{
+    display: flex;
+    justify-content: space-between;
+}
+
+.apresentacao__links__link{
+    background-color: #0292B7;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 18px;
+    padding: 16px 0px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
