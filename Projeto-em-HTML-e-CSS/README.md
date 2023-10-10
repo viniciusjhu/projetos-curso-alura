@@ -1,19 +1,4 @@
-```
-
-# Portfólio Olá, Bem vindo a minha primeira versão do portfólio. Este projeto foi criado para ser um hub onde os novos projetos que serão desenvolvidos por mim estarão.
-
-## Ferramentas utilizadas:
-
-* HTML
-
-* CSS
-
-* Flex-box
-
-## Feito por:
-
-### Vinicius Ribeiro
+# Iniciando na Programação 👩‍💻
+Seja bem-vindo a minha primeira versão do Portifólio de Projetos. Este projeto foi criado na intenção de praticar o HTML, CSS e Flex-Box, e para ser o hub de futuros projetos que serão desenvolvidos por mim.
 
 ### Linkedin: https://www.linkedin.com/in/viniciusjhu/
-
-```
