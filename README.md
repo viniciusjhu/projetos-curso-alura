@@ -5,6 +5,7 @@ Abaixo, você irá encontrar alguns projetos que estou praticando em HTML, CSS e
 
 - [x] Game Pong: exercitando a lógica de programação em JS 🏓
 - [x] Game Freeway: JS 🚗 
-- [ ] Aprendendo Lógica de Programação com Java e HTML - Próximo projeto em desenvolvimento
+- [x] Portifólio de Projetos em HTML e CSS 👨‍💻 
+- [ ] Aprendendo Lógica de Programação - Próximo projeto em desenvolvimento
 
 > Em atualização
