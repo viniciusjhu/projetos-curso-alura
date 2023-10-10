@@ -5,5 +5,6 @@ Abaixo, você irá encontrar alguns projetos que estou praticando em HTML, CSS e
 
 - [x] Game Pong: exercitando a lógica de programação em JS 🏓
 - [x] Game Freeway: JS 🚗
+- [x] Portifólio de Projetos: HTML, CSS e Flex-box 👨‍💻
 
 > Em atualização | Próximo projeto a caminho
