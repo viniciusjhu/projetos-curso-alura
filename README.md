@@ -8,4 +8,4 @@ Abaixo, você irá encontrar alguns projetos que estou praticando em HTML, CSS e
 - [x] Portifólio de Projetos em HTML e CSS 👨‍💻 
 - [ ] Aprendendo Lógica de Programação - Próximo projeto em desenvolvimento
 
-> Em atualização
+> Em atualização | Próximo projeto a caminho
