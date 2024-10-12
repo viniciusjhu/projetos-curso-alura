@@ -1,5 +1,5 @@
 # Iniciando na Programação 👩‍💻
-Abaixo, você irá encontrar alguns projetos que estou praticando em HTML, CSS e JavaScript. Estou aprendendo criar páginas web com a base necessária para estudar os frameworks do mercado, além de exercícios envolvendo a lógica de programação. 
+Abaixo, você irá encontrar alguns projetos nos quais tive meu primeiro contato com as linguagens: HTML, CSS e JavaScript.
 
 ## Projetos:
 
